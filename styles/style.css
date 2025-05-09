@@ -5,9 +5,13 @@ body {
   margin: 0;
 }
 
+header {
+  background-color: #000000;
+  position: fixed;
+}
+
 @media screen and (max-width: 480px) {
   header .logo {
-    float: left;
     width: 60vw;
   }
 }
@@ -16,5 +20,6 @@ body {
   header .logo {
     float: left;
     width: 20vw;
+    padding: 2vw 6vw;
   }
 }
