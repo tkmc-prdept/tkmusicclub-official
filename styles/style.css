@@ -23,4 +23,8 @@ header {
     width: 18vw;
     padding: 1vw 4vw;
   }
+
+  .top {
+    margin: 0 4vw;
+  }
 }
