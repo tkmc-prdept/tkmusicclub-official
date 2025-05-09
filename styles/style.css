@@ -20,7 +20,7 @@ header {
 @media screen and (min-width: 960px) {
   header .logo {
     float: left;
-    width: 20vw;
+    width: 18vw;
     padding: 1vw 4vw;
   }
 }
