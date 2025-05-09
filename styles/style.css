@@ -5,6 +5,16 @@ body {
   margin: 0;
 }
 
-header .logo {
-  float: left;
+@media screen and (max-width: 480px) {
+  header .logo {
+    float: left;
+    width: 60vw;
+  }
+}
+
+@media screen and (min-width: 960px) {
+  header .logo {
+    float: left;
+    width: 20vw;
+  }
 }
