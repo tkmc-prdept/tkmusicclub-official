@@ -25,6 +25,6 @@ header {
   }
 
   .top {
-    object-fit: cover;
+    width: 100vw;
   }
 }
