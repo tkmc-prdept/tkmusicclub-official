@@ -25,7 +25,8 @@ header {
   }
 
   .top {
-    text-align: center;
-    width: 92%;
+    width: 100%;
+    height: auto;
+    display: block;
   }
 }
