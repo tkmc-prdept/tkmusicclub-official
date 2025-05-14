@@ -10,7 +10,12 @@
     width: 100%;
     height: auto;
     display: block;
+    position: relative;
     transform: translate(-6vx, -10vx);
+  }
+
+  .top-loading {
+    position: absolute;
   }
 }
 
