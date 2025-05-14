@@ -10,8 +10,7 @@
     width: 100%;
     height: auto;
     display: block;
-    top: -16%;
-    left: -8%;
+    transform: translate(-6vx, -10vx);
   }
 }
 
