@@ -18,15 +18,14 @@
     max-height: 100vh;
     width: 100%;
     height: 100%;
+    z-index: 1;
   }
   
   .top-background {
-    position: absolute;
     width: 100%;
     height: 100%;
     display: block;
     transform: translate(-6vw, -10vh);
-    z-index: 1;
   }
 
   .top-loading-logo {
