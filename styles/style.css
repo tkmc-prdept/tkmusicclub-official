@@ -27,12 +27,15 @@
     height: 100%;
     display: block;
     object-fit: cover;
+    z-index: 10;
   }
 
   .top-loading-logo {
     position: absolute;
     top: 24vh;
-    left: 36vw;
+    left: 30vw;
+    width: 60vw;
+    height: 60vh;
     z-index: 2;
   }
 
