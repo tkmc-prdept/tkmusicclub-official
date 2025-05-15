@@ -36,8 +36,8 @@
     position: absolute;
     top: 24vh;
     left: 30vw;
-    width: 60vw;
     height: 60vh;
+    width: auto;
     z-index: 2;
   }
 
