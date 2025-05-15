@@ -19,16 +19,20 @@
     width: 100%;
     height: 100%;
     overflow: hidden;
+    background-image: url("images/top_background.webp");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
   }
   
-  .top-background {
+  /*.top-background {
     position: absolute;
     width: 100%;
     height: 100%;
     display: block;
     object-fit: cover;
     z-index: 10;
-  }
+  }*/
 
   .top-loading-logo {
     position: absolute;
