@@ -31,15 +31,15 @@
 
   .top-loading-logo {
     position: absolute;
-    top: 36vh;
+    top: 24vh;
     left: 36vw;
     z-index: 2;
   }
 
   .top-loading-name {
     position: absolute;
-    top: 36vh;
-    left: 36vw;
+    top: 30vh;
+    left: 20vw;
     z-index: 3;
   }
 
